@@ -1,0 +1,3 @@
+rule,confidence,lift
+"{'eggs', 'ground beef'} --> {'mineral water'}",0.5066666666666667,2.1264689423615
+"{'ground beef', 'milk'} --> {'mineral water'}",0.503030303030303,2.1112072035407237

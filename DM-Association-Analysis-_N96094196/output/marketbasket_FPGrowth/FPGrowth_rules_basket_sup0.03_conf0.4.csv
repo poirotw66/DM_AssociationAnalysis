@@ -1,0 +1,3 @@
+rule,confidence,lift
+{'ground beef'} --> {'spaghetti'},0.41109530583214793,2.5996752055152696
+{'ground beef'} --> {'mineral water'},0.43243243243243246,2.099186565205983

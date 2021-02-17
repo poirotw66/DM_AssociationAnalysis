@@ -1,0 +1,98 @@
+pattern,count
+{'almonds'},151
+{'fresh tuna'},160
+{'energy drink'},161
+{'oil'},162
+{'french wine'},168
+{'energy bar'},170
+{'yogurt cake'},170
+{'vegetables mix'},173
+{'light mayo'},186
+{'cereals'},188
+{'pepper'},193
+{'ham'},193
+{'red wine'},200
+{'whole wheat pasta'},210
+{'butter'},213
+{'tomato juice'},218
+{'hot dogs'},220
+{'cottage cheese'},222
+{'brownies'},233
+{'avocado'},237
+{'champagne'},282
+{'salmon'},297
+{'fresh bread'},307
+{'cookies'},311
+{'honey'},334
+{'herb & pepper'},344
+{'grated cheese'},363
+{'soup'},367
+"{'mineral water', 'soup'}",173
+{'cooking oil'},372
+"{'cooking oil', 'mineral water'}",150
+{'whole wheat rice'},403
+{'turkey'},430
+{'escalope'},430
+{'chicken'},433
+"{'mineral water', 'chicken'}",168
+{'frozen smoothie'},438
+{'olive oil'},453
+"{'olive oil', 'spaghetti'}",168
+"{'olive oil', 'mineral water'}",199
+{'tomatoes'},476
+"{'spaghetti', 'tomatoes'}",155
+"{'mineral water', 'tomatoes'}",179
+{'low fat yogurt'},491
+"{'mineral water', 'low fat yogurt'}",168
+{'shrimp'},511
+"{'spaghetti', 'shrimp'}",157
+"{'mineral water', 'shrimp'}",173
+{'cake'},534
+"{'mineral water', 'cake'}",194
+{'burgers'},589
+"{'french fries', 'burgers'}",152
+"{'spaghetti', 'burgers'}",157
+"{'mineral water', 'burgers'}",179
+"{'eggs', 'burgers'}",187
+{'pancakes'},646
+"{'pancakes', 'eggs'}",157
+"{'pancakes', 'spaghetti'}",187
+"{'pancakes', 'mineral water'}",252
+{'frozen vegetables'},672
+"{'frozen vegetables', 'eggs'}",160
+"{'frozen vegetables', 'chocolate'}",171
+"{'milk', 'frozen vegetables'}",176
+"{'frozen vegetables', 'spaghetti'}",202
+"{'frozen vegetables', 'mineral water'}",261
+{'ground beef'},703
+"{'milk', 'ground beef'}",164
+"{'ground beef', 'chocolate'}",172
+"{'ground beef', 'spaghetti'}",289
+"{'ground beef', 'mineral water'}",304
+{'green tea'},870
+"{'green tea', 'chocolate'}",175
+"{'eggs', 'green tea'}",181
+"{'spaghetti', 'green tea'}",199
+"{'french fries', 'green tea'}",209
+"{'mineral water', 'green tea'}",223
+{'milk'},878
+"{'milk', 'french fries'}",175
+"{'milk', 'eggs'}",218
+"{'milk', 'chocolate'}",230
+"{'milk', 'spaghetti'}",259
+"{'milk', 'mineral water'}",350
+{'french fries'},994
+"{'french fries', 'spaghetti'}",206
+"{'french fries', 'chocolate'}",238
+"{'french fries', 'eggs'}",240
+"{'french fries', 'mineral water'}",248
+{'chocolate'},1050
+"{'eggs', 'chocolate'}",239
+"{'spaghetti', 'chocolate'}",287
+"{'mineral water', 'chocolate'}",374
+{'eggs'},1072
+"{'spaghetti', 'eggs'}",266
+"{'mineral water', 'eggs'}",361
+{'spaghetti'},1186
+"{'spaghetti', 'mineral water'}",439
+{'mineral water'},1545

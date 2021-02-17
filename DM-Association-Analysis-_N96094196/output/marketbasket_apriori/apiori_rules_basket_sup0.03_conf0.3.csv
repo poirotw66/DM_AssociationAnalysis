@@ -1,0 +1,8 @@
+rule,confidence,lift
+{'chocolate'} --> {'mineral water'},0.3213995117982099,1.3489067367020562
+{'frozen vegetables'} --> {'mineral water'},0.3748251748251748,1.5731330784492508
+{'ground beef'} --> {'mineral water'},0.41655359565807326,1.7482663499919135
+{'ground beef'} --> {'spaghetti'},0.3989145183175034,2.290856728469583
+{'milk'} --> {'mineral water'},0.37037037037037035,1.5544363613753653
+{'pancakes'} --> {'mineral water'},0.3548387096774194,1.489250320414463
+{'spaghetti'} --> {'mineral water'},0.3430321592649311,1.4396984860027886
