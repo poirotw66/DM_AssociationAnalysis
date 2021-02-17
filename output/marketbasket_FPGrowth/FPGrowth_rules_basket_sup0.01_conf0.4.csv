@@ -1,0 +1,22 @@
+rule,confidence,lift
+{'red wine'} --> {'mineral water'},0.41,1.9902912621359223
+{'soup'} --> {'mineral water'},0.4713896457765668,2.2882992513425573
+{'cooking oil'} --> {'mineral water'},0.4032258064516129,1.957406827435014
+"{'olive oil', 'spaghetti'} --> {'mineral water'}",0.4523809523809524,2.196024040684235
+{'olive oil'} --> {'mineral water'},0.4392935982339956,2.1324931953106585
+"{'pancakes', 'spaghetti'} --> {'mineral water'}",0.45989304812834225,2.232490524894865
+"{'milk', 'frozen vegetables'} --> {'mineral water'}",0.4715909090909091,2.28927625772286
+"{'frozen vegetables', 'spaghetti'} --> {'mineral water'}",0.44554455445544555,2.1628376429875997
+"{'ground beef', 'eggs'} --> {'mineral water'}",0.5033557046979866,2.4434742946504207
+"{'ground beef', 'milk'} --> {'mineral water'}",0.5060975609756098,2.4567842765806303
+"{'ground beef', 'chocolate'} --> {'mineral water'}",0.47674418604651164,2.3142921652743285
+{'ground beef'} --> {'spaghetti'},0.41109530583214793,2.5996752055152696
+"{'ground beef', 'spaghetti'} --> {'mineral water'}",0.4429065743944637,2.1500319145362314
+"{'ground beef', 'mineral water'} --> {'spaghetti'}",0.42105263157894735,2.6626431170675424
+{'ground beef'} --> {'mineral water'},0.43243243243243246,2.099186565205983
+"{'eggs', 'milk'} --> {'mineral water'}",0.44495412844036697,2.159971497283335
+"{'chocolate', 'milk'} --> {'mineral water'}",0.44782608695652176,2.173913043478261
+"{'milk', 'spaghetti'} --> {'mineral water'}",0.4517374517374517,2.1929002511526785
+"{'chocolate', 'eggs'} --> {'mineral water'}",0.41422594142259417,2.0108055408863796
+"{'chocolate', 'spaghetti'} --> {'mineral water'}",0.41114982578397213,1.995872940698894
+"{'eggs', 'spaghetti'} --> {'mineral water'}",0.40225563909774437,1.9526972771735165

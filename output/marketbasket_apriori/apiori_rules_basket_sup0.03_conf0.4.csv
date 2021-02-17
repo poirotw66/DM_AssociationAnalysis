@@ -1,0 +1,2 @@
+rule,confidence,lift
+{'ground beef'} --> {'mineral water'},0.41655359565807326,1.7482663499919135

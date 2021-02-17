@@ -1,0 +1,52 @@
+pattern,count
+"{'eggs', 'burgers'}",216
+"{'french fries', 'burgers'}",165
+"{'burgers', 'mineral water'}",183
+"{'burgers', 'spaghetti'}",161
+"{'cake', 'mineral water'}",206
+"{'mineral water', 'chicken'}",171
+"{'eggs', 'chocolate'}",249
+"{'french fries', 'chocolate'}",258
+"{'frozen vegetables', 'chocolate'}",172
+"{'green tea', 'chocolate'}",176
+"{'ground beef', 'chocolate'}",173
+"{'milk', 'chocolate'}",241
+"{'mineral water', 'chocolate'}",395
+"{'spaghetti', 'chocolate'}",294
+"{'mineral water', 'cooking oil'}",151
+"{'eggs', 'french fries'}",273
+"{'frozen vegetables', 'eggs'}",163
+"{'eggs', 'green tea'}",191
+"{'eggs', 'ground beef'}",150
+"{'eggs', 'milk'}",231
+"{'eggs', 'mineral water'}",382
+"{'eggs', 'pancakes'}",163
+"{'eggs', 'spaghetti'}",274
+"{'french fries', 'green tea'}",214
+"{'french fries', 'milk'}",178
+"{'french fries', 'mineral water'}",253
+"{'french fries', 'pancakes'}",151
+"{'french fries', 'spaghetti'}",207
+"{'frozen smoothie', 'mineral water'}",151
+"{'frozen vegetables', 'milk'}",177
+"{'frozen vegetables', 'mineral water'}",268
+"{'frozen vegetables', 'spaghetti'}",209
+"{'mineral water', 'green tea'}",232
+"{'spaghetti', 'green tea'}",199
+"{'milk', 'ground beef'}",165
+"{'ground beef', 'mineral water'}",307
+"{'ground beef', 'spaghetti'}",294
+"{'low fat yogurt', 'mineral water'}",179
+"{'milk', 'mineral water'}",360
+"{'milk', 'spaghetti'}",266
+"{'mineral water', 'olive oil'}",206
+"{'mineral water', 'pancakes'}",253
+"{'shrimp', 'mineral water'}",176
+"{'soup', 'mineral water'}",173
+"{'spaghetti', 'mineral water'}",448
+"{'tomatoes', 'mineral water'}",183
+"{'whole wheat rice', 'mineral water'}",151
+"{'spaghetti', 'olive oil'}",172
+"{'spaghetti', 'pancakes'}",189
+"{'spaghetti', 'shrimp'}",159
+"{'tomatoes', 'spaghetti'}",157

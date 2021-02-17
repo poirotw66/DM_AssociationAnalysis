@@ -1,0 +1,6 @@
+rule,confidence,lift
+{'soup'} --> {'mineral water'},0.4713896457765668,2.2882992513425573
+{'cooking oil'} --> {'mineral water'},0.4032258064516129,1.957406827435014
+{'olive oil'} --> {'mineral water'},0.4392935982339956,2.1324931953106585
+{'ground beef'} --> {'spaghetti'},0.41109530583214793,2.5996752055152696
+{'ground beef'} --> {'mineral water'},0.43243243243243246,2.099186565205983
