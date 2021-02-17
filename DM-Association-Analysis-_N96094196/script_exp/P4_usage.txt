@@ -1,7 +1,0 @@
-in cmd 
-python XXX.py ibm 75 0.4
-       
-XXX.py : file name
-ibm : datset
-75  : min_sup
-0.4 : min_conf

@@ -1,4 +1,0 @@
-rule,confidence,lift
-{'ground beef'} --> {'mineral water'},0.41655359565807326,1.7482663499919135
-{'olive oil'} --> {'mineral water'},0.4178498985801217,1.7537069050648646
-{'soup'} --> {'mineral water'},0.45646437994722955,1.9157710406291113
