@@ -1,4 +1,4 @@
-# DM_AssociationAnalysis
+<!-- # DM_AssociationAnalysis
 
 ## Outline
 1.	Introduction、File structure
@@ -6,7 +6,7 @@
 3.	Kaggle Dataset Compare 
 4.	IBM Dataset Compare
 5.	Apriori hashtree
-6.	Summary
+6.	Summary -->
 
 
 
