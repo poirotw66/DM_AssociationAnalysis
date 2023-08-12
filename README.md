@@ -1,17 +1,6 @@
 # DM_AssociationAnalysis
 
-Project 1
-Association Analysis
-
-
-
-
-
-
-
-
-
-目錄
+## Outline
 1.	Introduction、File structure
 2.	Validation
 3.	Kaggle Dataset Compare 
@@ -21,12 +10,13 @@ Association Analysis
 
 
 
-
-
-
-
-Introduction 1
-實做 Apriori 及 FP Growth 兩個演算法並應用在至少兩個資料集上，從kaggle找到Market Basket Optimization 資料集,包含7501份資料,並且使用IBM Quest Data Generator 生成包含8290筆的資料集合。此外對不同資料集,不同條件設計下,測量運算時間,進行比較。
-1.	Kaggle  - Market Basket Optimization
-2. 	IBM Quest Data Generator  - data.csv
- 
+<img src="./Project1_Report/Project1_Report_page-0001.jpg"/>
+<img src="./Project1_Report/Project1_Report_page-0002.jpg"/>
+<img src="./Project1_Report/Project1_Report_page-0003.jpg"/>
+<img src="./Project1_Report/Project1_Report_page-0004.jpg"/>
+<img src="./Project1_Report/Project1_Report_page-0005.jpg"/>
+<img src="./Project1_Report/Project1_Report_page-0006.jpg"/>
+<img src="./Project1_Report/Project1_Report_page-0007.jpg"/>
+<img src="./Project1_Report/Project1_Report_page-0008.jpg"/>
+<img src="./Project1_Report/Project1_Report_page-0009.jpg"/>
+<img src="./Project1_Report/Project1_Report_page-0010.jpg"/>
